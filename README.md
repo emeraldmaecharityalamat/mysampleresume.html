@@ -213,8 +213,8 @@
 	    <p><span>Titay Senior High School, Poblacion, Titay Z.S.P.</span></p>
         <li>Studied - HUMANITIES AND SOCIAL SCIENCES</li>
         <h3>Tertiary</h3>
-        <p><span>Jose Rizal Memorial State University-TC<span>
-        <li><span>Studies - Bachelor Of Science in Computer Science<span>
+        <p><span>Jose Rizal Memorial State University-TC<span></p>
+        <li><span>Studies - Bachelor Of Science in Computer Science</span>
 	<hr class="side-line">
 	    <h2>Address:</h2>
 	    <p><span>Hometown:</span>Poblacion Titay, Zamboanga Sibugay</p>
