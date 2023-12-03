@@ -209,12 +209,12 @@
 	    <p><span>Titay Central Elementary School Z.S.P.</span></p>
 	<h3>Secondary:</h3>
             <p><span>Titay National High School, Poblacion, Titay Z.S.P.</span></p>
-            <li><span>Studied - AGRI-CROP PRODUCTION<span></li>
+            <li><span>Studied - AGRI-CROP PRODUCTION<span>
 	    <p><span>Titay Senior High School, Poblacion, Titay Z.S.P.</span></p>
         <li>Studied - HUMANITIES AND SOCIAL SCIENCES</li>
         <h3>Tertiary</h3>
         <p><span>Jose Rizal Memorial State University-TC<span></p>
-        <li><span>Studies - Bachelor Of Science in Computer Science<span></li>
+        <li><span>Studies - Bachelor Of Science in Computer Science<span>
 	<hr class="side-line">
 	    <h2>Address:</h2>
 	    <p><span>Hometown:</span>Poblacion Titay, Zamboanga Sibugay</p>
@@ -224,5 +224,4 @@
 
             
 
-</body>
-</html>
+
