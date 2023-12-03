@@ -197,7 +197,7 @@
             <p><span>Father's Name:</span> Eugenio A. Alamat</p>
             <p><span>Mother's Name:</span> Greta G. Alamat</p>
             <p><span>Religion:</span> Seventh-Day Adventist</p>
-            <p>Language:</span> Bisaya, Tagalog, English</p>
+            <p><span>Language:</span> Bisaya, Tagalog, English</p>
 	<hr class="side-line">
             <h2>Contact Information:</h2>
             <p><span>📧:</span> emeraldmaecharityalamat@gamil.com</p>
